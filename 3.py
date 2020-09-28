@@ -8,8 +8,7 @@ Dated : 15-june-2020  3:25 PKST
 
 import marshal as mc
 import zlib, base64, time, sys, os
-print ('\nArbab Ali ▇')
-print ('\n▇▇      WhatsApp Num    ▇       ▇▇      03094161457     ▇▇')
+print 'ArbabAli'
 print ('\n«-----------------BlackMafia-----------------»')
 try:
     input_s = raw_input('Script To Encypt : ')
