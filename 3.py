@@ -9,7 +9,7 @@ Dated : 15-june-2020  3:25 PKST
 import marshal as mc
 import zlib, base64, time, sys, os
 print 'ArbabAli'
-print ('\n«-----------------BlackMafia-----------------»')
+print 'Memon'
 try:
     input_s = raw_input('Script To Encypt : ')
     r = mc.dumps(compile(open(input_s, 'rb').read(), '<string>', 'exec'))
